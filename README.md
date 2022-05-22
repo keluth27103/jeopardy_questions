@@ -1,2 +1,15 @@
 # jeopardy_questions
-this project highlights code used to filter a large data set (in this case, filtering Jeopardy! questions and answers based on specified criteria)
+filter a large Jeopardy! data set based on a variety of search cues
+
+Data sets:
+* jeopardy_1.csv
+* jeopardy_2.csv
+
+Sample questions addressed:
+* How many Jeopardy! answers contain a given word (or are about a given topic)?
+* What is the average value of questions containing a particular search cue?
+* How many questions contained the word 'computer' in the 1990s compared to the 2000s?
+
+Skills highlighted:
+* creating functions (including lamda functions)
+* data frame manipulation: concatenating data sets, renaming columns, removing unwanted symbols from data, converting data types, creating/adding new columns to data frame
