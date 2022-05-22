@@ -1,5 +1,5 @@
 # jeopardy_questions
-filter a large Jeopardy! data set based on a variety of search cues
+filter a large Jeopardy! data set based on a variety of search criteria
 
 Data sets:
 * jeopardy_1.csv
